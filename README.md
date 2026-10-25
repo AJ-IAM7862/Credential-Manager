@@ -8,16 +8,14 @@ cached credentials to troubleshoot common authentication and sign-in issues.<br 
 - Windows 11
 <h2>Credential Manager</h2>
 <p>
-<img width="1096" height="726" alt="image"
-src="https://github.com/user-attachments/assets/8c4d9209-574e-4fbf-814f-bfd0ec00462d" />
+<img width="950" height="544" alt="Credential Manager" src="https://github.com/user-attachments/assets/e57fa4c0-df86-42a8-b8e6-537c6ec87e5c" />
 </p>
 <p>
 Process of removing Windows credentials for account lockout remediation.
 </p>
 <br />
 <p>
-<img width="536" height="555" alt="image"
-src="https://github.com/user-attachments/assets/e95aaea4-6aab-45d7-8343-730b45e23a74" />
+<img width="942" height="500" alt="Delete Browsing history" src="https://github.com/user-attachments/assets/53dffbd6-7ac8-44ba-a03e-5fabfeeaf4c6" />
 </p>
 <p>
 Deleted cache images and files for further account lockout remediation.
